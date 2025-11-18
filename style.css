@@ -1,1 +1,26 @@
+body {
+    background: white;
+    font-family: Arial;
+}
+
+.box {
+    width: 300px;
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+input, button {
+    width: 100%;
+    padding: 8px;
+    margin: 6px 0;
+}
+
+button {
+    background: #3b6db3;
+    color: white;
+    border: none;
+}
 
