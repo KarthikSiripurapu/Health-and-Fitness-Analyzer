@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlite3
+pandas
+numpy
+matplotlib
+jinja2
+python-multipart
+starlette
