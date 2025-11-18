@@ -5,6 +5,7 @@ This is a Python web app that helps you track your fitness data over multiple da
 * Calories burned
 * Sleep hours
 * Weight
+* 
 This app then shows you averages and creates a progress chart.
 
 # How to Run -
