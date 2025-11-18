@@ -16,7 +16,9 @@ uvicorn main:app --reload
 
 # How to Use
 Start: Enter your name and how many days you want to track
+
 Daily Input: Each day, enter your steps, calories, sleep, and weight
+
 Results: After all days, see your averages and a progress chart
 
 # Technology Used
@@ -25,10 +27,3 @@ SQLite - Database
 Pandas & NumPy - Data calculations
 Matplotlib - Charts and graphs
 Jinja2 - HTML templates
-
-# Project Files
-main.py - Main web application
-database.py - Database operations
-numpy_ops.py - Data calculations
-matplotlib_lib.py - Chart generation
-session_handler.py - User session management
