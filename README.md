@@ -23,7 +23,11 @@ Results: After all days, see your averages and a progress chart
 
 # Technology Used
 FastAPI - Web framework
+
 SQLite - Database
+
 Pandas & NumPy - Data calculations
+
 Matplotlib - Charts and graphs
+
 Jinja2 - HTML templates
