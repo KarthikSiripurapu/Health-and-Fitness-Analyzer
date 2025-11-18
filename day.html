@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Day {{day}}</title>
+    <link rel="stylesheet" href="/static/style1.css">
+</head>
+<body>
+<div class="box">
+    <h3>Day {{day}} of {{tot}}</h3>
+
+    <form action="/save" method="post">
+        <label>Steps</label>
+        <input type="number" name="steps" required>
+
+        <label>Calories</label>
+        <input type="number" name="cal" required>
+
+        <label>Sleep</label>
+        <input type="number" step="0.1" name="sleep" required>
+
+        <label>Weight</label>
+        <input type="number" step="0.1" name="weight" required>
+
+        <button type="submit">Save</button>
+    </form>
+</div>
+</body>
+</html>
