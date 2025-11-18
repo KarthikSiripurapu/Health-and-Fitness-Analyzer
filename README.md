@@ -32,3 +32,8 @@ Pandas & NumPy - Data calculations
 Matplotlib - Charts and graphs
 
 Jinja2 - HTML templates
+
+# Example Run
+fitness.db - database given
+
+fitness_graph.png - Data Visualized using Matplot
